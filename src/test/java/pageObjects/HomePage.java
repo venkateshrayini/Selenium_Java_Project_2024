@@ -16,6 +16,8 @@ public class HomePage extends BasePage{
 	@FindBy(xpath="//span[normalize-space()='My Account']") WebElement btnMyAccount;
 	@FindBy(xpath="//a[normalize-space()='Register']") WebElement btnRegister;
 	@FindBy(xpath="//a[normalize-space()='Login']") WebElement btnLogin;
+	@FindBy(xpath="//a[normalize-space()='Software']") WebElement btnSoftware;
+	@FindBy(xpath="//a[normalize-space()='Samsung Galaxy Tab 10.1']") WebElement linkSamsungGalaxy;
 	
 	//Methods
 	public void clickMyAccount() {
@@ -30,4 +32,11 @@ public class HomePage extends BasePage{
 		btnLogin.click();
 	}
 	
+	public void clickSoftware() {
+		btnSoftware.click();
+	}
+	
+	public void clickSamsungGalaxy() {
+		linkSamsungGalaxy.click();
+	}
 }
