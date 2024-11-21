@@ -1,0 +1,16 @@
+2024-11-21 06:47:48 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
+2024-11-21 06:49:15 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
+2024-11-21 06:49:24 INFO  TC_001_AccountRegestration:15 - ***Started Account Regestration Test***
+2024-11-21 06:49:26 INFO  TC_001_AccountRegestration:49 - ***Finished Account Regestration Test***
+2024-11-21 06:49:30 INFO  TC_002_LoginTest:16 - ****TC_002_LoginTest Started****
+2024-11-21 06:49:32 INFO  TC_002_LoginTest:34 - ****TC_002_LoginTest Finished****
+2024-11-21 07:10:51 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
+2024-11-21 07:10:56 INFO  TC_001_AccountRegestration:15 - ***Started Account Regestration Test***
+2024-11-21 07:10:58 INFO  TC_001_AccountRegestration:49 - ***Finished Account Regestration Test***
+2024-11-21 07:11:02 INFO  TC_002_LoginTest:16 - ****TC_002_LoginTest Started****
+2024-11-21 07:11:03 INFO  TC_002_LoginTest:34 - ****TC_002_LoginTest Finished****
+2024-11-21 07:25:47 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
+2024-11-21 07:25:52 INFO  TC_001_AccountRegestration:15 - ***Started Account Regestration Test***
+2024-11-21 07:25:54 INFO  TC_001_AccountRegestration:49 - ***Finished Account Regestration Test***
+2024-11-21 07:25:59 INFO  TC_002_LoginTest:16 - ****TC_002_LoginTest Started****
+2024-11-21 07:26:01 INFO  TC_002_LoginTest:34 - ****TC_002_LoginTest Finished****
