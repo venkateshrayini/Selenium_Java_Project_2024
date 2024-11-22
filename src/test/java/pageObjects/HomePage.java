@@ -18,6 +18,9 @@ public class HomePage extends BasePage{
 	@FindBy(xpath="//a[normalize-space()='Login']") WebElement btnLogin;
 	@FindBy(xpath="//a[normalize-space()='Software']") WebElement btnSoftware;
 	@FindBy(xpath="//a[normalize-space()='Samsung Galaxy Tab 10.1']") WebElement linkSamsungGalaxy;
+	@FindBy(xpath="//a[normalize-space()='Qafox.com']") WebElement imgLogo;
+	@FindBy(xpath="//a[normalize-space()='Brands']") WebElement linkBrands;
+	@FindBy(xpath="//h1[normalize-space()='Find Your Favorite Brand']") WebElement BrandsConfirmationMsg;
 	
 	//Methods
 	public void clickMyAccount() {
@@ -38,5 +41,25 @@ public class HomePage extends BasePage{
 	
 	public void clickSamsungGalaxy() {
 		linkSamsungGalaxy.click();
+	}
+	
+	public boolean logoStatus() {
+		try {
+		return (imgLogo.isDisplayed());
+		}
+		catch(Exception e) {
+		return false;
+		}
+	}
+	
+	public String clickBrands() {
+		linkBrands.click();
+		
+		try {
+			return (BrandsConfirmationMsg.getText());
+		}
+		catch(Exception e) {
+			return e.getMessage();
+		}
 	}
 }

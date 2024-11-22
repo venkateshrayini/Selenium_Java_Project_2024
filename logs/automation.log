@@ -1,26 +1,32 @@
-2024-11-21 06:47:48 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
-2024-11-21 06:49:15 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
-2024-11-21 06:49:24 INFO  TC_001_AccountRegestration:15 - ***Started Account Regestration Test***
-2024-11-21 06:49:26 INFO  TC_001_AccountRegestration:49 - ***Finished Account Regestration Test***
-2024-11-21 06:49:30 INFO  TC_002_LoginTest:16 - ****TC_002_LoginTest Started****
-2024-11-21 06:49:32 INFO  TC_002_LoginTest:34 - ****TC_002_LoginTest Finished****
-2024-11-21 07:10:51 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
-2024-11-21 07:10:56 INFO  TC_001_AccountRegestration:15 - ***Started Account Regestration Test***
-2024-11-21 07:10:58 INFO  TC_001_AccountRegestration:49 - ***Finished Account Regestration Test***
-2024-11-21 07:11:02 INFO  TC_002_LoginTest:16 - ****TC_002_LoginTest Started****
-2024-11-21 07:11:03 INFO  TC_002_LoginTest:34 - ****TC_002_LoginTest Finished****
-2024-11-21 07:25:47 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
-2024-11-21 07:25:52 INFO  TC_001_AccountRegestration:15 - ***Started Account Regestration Test***
-2024-11-21 07:25:54 INFO  TC_001_AccountRegestration:49 - ***Finished Account Regestration Test***
-2024-11-21 07:25:59 INFO  TC_002_LoginTest:16 - ****TC_002_LoginTest Started****
-2024-11-21 07:26:01 INFO  TC_002_LoginTest:34 - ****TC_002_LoginTest Finished****
-2024-11-21 19:35:05 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
-2024-11-21 19:35:06 INFO  Utils:112 - [TestNG] Running:
+2024-11-22 07:15:51 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
+2024-11-22 07:15:51 INFO  Utils:112 - [TestNG] Running:
   C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml
 
-2024-11-21 19:35:14 INFO  TC_001_AccountRegestration:15 - ***Started Account Regestration Test***
-2024-11-21 19:35:15 INFO  TC_001_AccountRegestration:49 - ***Finished Account Regestration Test***
-2024-11-21 19:35:19 INFO  TC_002_LoginTest:16 - ****TC_002_LoginTest Started****
-2024-11-21 19:35:21 INFO  TC_002_LoginTest:34 - ****TC_002_LoginTest Finished****
-2024-11-21 19:35:24 INFO  TC_004_Software:13 - ****TC_004_Software is started****
-2024-11-21 19:35:35 INFO  TC_004_Software:25 - ****TC_004_Software is Finishied****
+2024-11-22 07:16:00 INFO  TC_004_Software:13 - ****TC_004_Software is started****
+2024-11-22 07:16:10 INFO  TC_004_Software:25 - ****TC_004_Software is Finishied****
+2024-11-22 07:17:02 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
+2024-11-22 07:17:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml
+
+2024-11-22 07:18:41 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
+2024-11-22 07:18:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml
+
+2024-11-22 07:19:45 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
+2024-11-22 07:19:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml
+
+2024-11-22 07:20:56 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
+2024-11-22 07:20:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml
+
+2024-11-22 07:21:00 INFO  TC_005_LogoTest:14 - ****TC_005_LogoTest Started Execution****
+2024-11-22 07:21:01 INFO  TC_005_LogoTest:27 - ****TC_005_LogoTest Finishied Execution****
+2024-11-22 17:45:17 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
+2024-11-22 17:45:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml
+
+2024-11-22 17:45:57 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml] otherwise TestNG may fail or not work as expected.
+2024-11-22 17:45:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\91630\eclipse-workspace\Selenium_Java_Project_2024\Master.xml
+
